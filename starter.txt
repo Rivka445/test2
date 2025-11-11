@@ -1,2 +1,2 @@
 This is a some text file.
-another line
+another line.
